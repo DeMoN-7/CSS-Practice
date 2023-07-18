@@ -16,6 +16,6 @@ can be implemented using three way
 <li>using stylesheet (seprate css file) </li>
 </ul>
 <br>
-Use <a href="https://coolors.co/"> for color pallet for website colors</a>
+<a href="https://coolors.co/"> for color pallet for website colors</a>
 <br>
 

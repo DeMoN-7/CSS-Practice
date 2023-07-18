@@ -1,3 +1,27 @@
+body{
+    background-color: #36413E;
+}
 h3{
-    color: blue;
+    color: #beb2c8;
+}
+p{
+    /* background-color: black; */
+    color: #beb2c8;
+    /* color: #ffff00; */
+    /* width: 70%; */
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+button{
+    color: black;
+    background-color: #beb2c8;
+    
+}
+#headingTwo{
+    color: #feb6ca;
+}
+#headingThree{
+    color: #FF0000;
+    font-style:oblique ;
 }

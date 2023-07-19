@@ -20,8 +20,20 @@ button{
 }
 #headingTwo{
     color: #feb6ca;
+    text-decoration: underline wavy red;
 }
 #headingThree{
     color: #FF0000;
     font-style:oblique ;
+    text-decoration:line-through dotted rosybrown;
+}
+#paraAlign{
+    color: #FF0000;
+    text-align: center;
+    font-weight: lighter;
+    /* text-align: justify; */
+}
+#google{
+    color: red;
+    text-decoration: none;
 }

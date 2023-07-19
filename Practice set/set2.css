@@ -1,0 +1,14 @@
+body{
+    font-family: 'Times New Roman';
+}
+#heading1{
+    text-align: center;
+    text-transform: uppercase;
+}
+#inner{
+    font-size: 10px;
+}
+#outer{
+    
+    font-size: 25px;
+}

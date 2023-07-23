@@ -1,0 +1,56 @@
+
+#navbar{
+    height: 60px;
+    background-color: rgb(46, 46, 46);
+}
+a{
+    margin: 0%;
+    font-size: 25px;
+    text-decoration: none;
+    color:white;
+    margin-right:200px;
+    padding: 0%;
+}
+#logo{
+    color: orange;
+
+}
+#cart{
+    color: white;
+}
+#contact{
+    /* margin-left: 200px; */
+}
+#search{
+    background-color: orange;
+    height: 22px;
+}
+button{
+    /* border: ; */
+    background-color: grey;
+    border: 0px;
+}
+
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#div1{
+    background-color: rgba(250, 30, 30, 0.5);
+}
+#div2{
+    background-color: rgba(0, 0, 30, 0.5);
+}
+#div3{
+    background-color: rgba(20, 30, 0, 0.5);
+}
+#content{
+    height: 890px;
+}
+
+footer{
+    background-color:darkgray;
+    text-align: center;
+}

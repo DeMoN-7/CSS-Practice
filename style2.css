@@ -30,7 +30,7 @@ body{
     margin-bottom: 10px;
     padding: 10px 20px 30px 40px;
 }
-div{
+#div1{
     color: red;
     background-color:cadetblue;
     height: 100px;
@@ -45,4 +45,26 @@ button{
     margin-top: 2px;
     background-color: black;
     color: aqua;
+}
+#div3{
+    margin-top: 5px;
+    background-color: rgb(184, 44, 44,0.1);
+    height: 150px;
+    padding: 50px;
+    width: 150px;
+    display: inline-block;
+}
+#div4{
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    padding: 50px;
+    display: inline-block;
+}
+#div5{
+    background-color: blue;
+    height: 150px;
+    width: 150px;
+    padding: 50px;
+    display: inline-block;
 }

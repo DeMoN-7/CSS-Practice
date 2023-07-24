@@ -21,20 +21,21 @@ can be implemented using three way
 
 To get documentation of anything we can use : mdn "properties name(eg:decoration)"
 <br>
-Level 1
-    •Intro
-    •CSS Syntax
-    •Types of adding CSS
-    •Colors
-    •Background Color
-    •Types of Selectors
-    •# Id and . class selector
-    •Pratice set 1 
-    •Text properties
-    •Font properties
-    •Absolute Units in CSS
-    •Pratice set 2 
-Level 2 
+<ul>
+<li><ul>Level 1
+    <li>•Intro
+    <li>•CSS Syntax
+    <li>•Types of adding CSS
+    <li>•Colors
+    <li>•Background Color
+    <li>•Types of Selectors
+    <li>•# Id and . class selector
+    <li>•Pratice set 1 
+    <li>•Text properties
+    <li>•Font properties
+    <li>•Absolute Units in CSS
+    <li>•Pratice set 2 </ul>
+<li><ul>Level 2 
     •Box Model in CSS
     •Pratice set 3 
     •Display property

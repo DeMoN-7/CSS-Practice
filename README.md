@@ -40,7 +40,7 @@ To get documentation of anything we can use : mdn "properties name(eg:decoration
     <li>Pratice set 3 
     <li>Display property
     <li>Alpha Channel
-    <li>Pratice set <ul>
+    <li>Pratice set </ul>
 <li><ul>Level 3 
     <li>Relative Units in CSS
     <li>Position properties

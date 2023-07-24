@@ -1,6 +1,6 @@
 # CSS-Practice
 Just a beginning for full stack web development
-
+<br>
 <br>
 <h2>Cascading Style Sheet</h2>
 <p> 
@@ -16,11 +16,7 @@ can be implemented using three way
 <li>using stylesheet (seprate css file) </li>
 </ul>
 <br>
-<a href="https://coolors.co/"> for color pallet for website colors</a>
-<br>
 
-To get documentation of anything we can use : mdn "properties name(eg:decoration)"
-<br>
 <ul>
 <li><ul>Level 1
     <li>Intro
@@ -53,3 +49,9 @@ To get documentation of anything we can use : mdn "properties name(eg:decoration
 <li><ul>Level 5 
     <li>Transition 
    <li>PROJECT </ul><ul>
+
+<a href="https://coolors.co/"> for color pallet for website colors</a>
+<br>
+
+To get documentation of anything we can use : mdn "properties name(eg:decoration)"
+<br>

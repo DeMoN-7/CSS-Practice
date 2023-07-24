@@ -1,0 +1,9 @@
+div{
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    background-image: url(https://www.cliffrailwaylynton.co.uk/wp-content/uploads/2018/01/250x250-Placeholder.png);
+    position: fixed;
+    /* bottom: 0; */
+    right: 0%;
+}

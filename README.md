@@ -19,5 +19,5 @@ can be implemented using three way
 <a href="https://coolors.co/"> for color pallet for website colors</a>
 <br>
 
-To get documentation of anyting we can use : mdn "properties name(eg:decoration)"
+To get documentation of anything we can use : mdn "properties name(eg:decoration)"
 <br>

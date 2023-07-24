@@ -23,33 +23,33 @@ To get documentation of anything we can use : mdn "properties name(eg:decoration
 <br>
 <ul>
 <li><ul>Level 1
-    <li>•Intro
-    <li>•CSS Syntax
-    <li>•Types of adding CSS
-    <li>•Colors
-    <li>•Background Color
-    <li>•Types of Selectors
-    <li>•# Id and . class selector
-    <li>•Pratice set 1 
-    <li>•Text properties
-    <li>•Font properties
-    <li>•Absolute Units in CSS
-    <li>•Pratice set 2 </ul>
+    <li>Intro
+    <li>CSS Syntax
+    <li>Types of adding CSS
+    <li>Colors
+    <li>Background Color
+    <li>Types of Selectors
+    <li># Id and . class selector
+    <li>Pratice set 1 
+    <li>Text properties
+    <li>Font properties
+    <li>Absolute Units in CSS
+    <li>Pratice set 2 </ul>
 <li><ul>Level 2 
-    •Box Model in CSS
-    •Pratice set 3 
-    •Display property
-    •Alpha Channel
-    •Pratice set 
-Level 3 
-    •Relative Units in CSS
-    •Position properties
-    •Z-index
-    •Background size
-    •Pratice set 5 
-Level 4 
-    •Flexbox
-    •Pratice set 6 
-Level 5 
-    Transition 
-   PROJECT 
+    <li>Box Model in CSS
+    <li>Pratice set 3 
+    <li>Display property
+    <li>Alpha Channel
+    <li>Pratice set <ul>
+<li><ul>Level 3 
+    <li>Relative Units in CSS
+    <li>Position properties
+    <li>Z-index
+    <li>Background size
+    <li>Pratice set 5 </ul>
+<li><ul>Level 4 
+    <li>Flexbox
+    <li>Pratice set 6 </ul>
+<li><ul>Level 5 
+    <li>Transition 
+   <li>PROJECT </ul><ul>

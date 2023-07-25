@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+div{
+    border: 2px solid black;
+    display:inline-block;
+    height: 50px;
+    width: 240px;
+}
+#container{
+    width: 800px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    flex-direction:row;
+    justify-content: center;
+}
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color:aquamarine;
+    height: 200px;
+    width: 150px;
+}
+#box3{
+    background-color:beige;
+    /* width: 10px;
+    height: 155px; */
+}
+#box4{
+    background-color:bisque;
+}
+#box5{
+    background-color:cadetblue;
+}

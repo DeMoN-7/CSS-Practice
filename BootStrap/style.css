@@ -1,0 +1,7 @@
+.container-fluid{
+    background-color: darkgray;
+    margin-top: 0%;
+}
+.container-fluid :hover{
+    border: 0.5px solid rgb(121, 121, 121);
+}

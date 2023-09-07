@@ -1,0 +1,17 @@
+#maindiv{
+    background-color: royalblue;
+    height: 400px;
+    width: 400px;
+}
+#innerdiv{
+    background-color: bisque;
+    /* height: 15vmax; */
+    height: 11vh;
+    width: 15vmin;
+}
+h1{
+    font-size: 3rem;
+}
+h2{
+    font-size: 40px;
+}
